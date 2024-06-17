@@ -9,7 +9,7 @@ redirect_from:
 
 I am an assistant professor at [nara institute of science and technology (NAIST)](https://www.naist.jp/), a member of [social computing lab](https://sociocom.naist.jp/). I received my Ph.D degree in social informatics at [Kyoto University](https://www.kyoto-u.ac.jp/), supervised by Sugiyama Kazunari. My research interests span data mining and information retrieval.
 
-#Selected Publications
+# Selected Publications
 
 * Shaowen Peng, Kazunari Sugiyama, and Tsunenori Mine. "Less is More: Removing Redundancy of Graph Convolutional Networks for Recommendation." TOIS 42.3 (2024): 1-26.
 
