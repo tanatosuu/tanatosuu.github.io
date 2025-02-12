@@ -11,6 +11,8 @@ I am an assistant professor at [Nara Institute of Science and Technology (NAIST)
 
 # Selected Publications
 
+* Shaowen Peng,  Kazunari Sugiyama, Xin Liu, and Tsunenori Mine. "	Balancing Embedding Spectrum for Recommendation." TORS
+
 * Shaowen Peng, Xin Liu, Kazunari Sugiyama, and Tsunenori Mine. "	How Powerful is Graph Filtering for Recommendation." KDD'24: 2388–2399.
 
 * Shaowen Peng, Kazunari Sugiyama, and Tsunenori Mine. "Less is More: Removing Redundancy of Graph Convolutional Networks for Recommendation." TOIS 42.3 (2024): 1-26.
