@@ -11,6 +11,8 @@ I am an assistant professor at [Nara Institute of Science and Technology (NAIST)
 
 # Selected Publications
 
+* Michael Van Supranes, Shaowen Peng, Shoko Wakamiya, Eiji Aramaki. "	Enhancing Hate Speech Classifiers through a Gradient-assisted Counterfactual Text Generation Strategy EMNLP '25 Findings
+
 * Shaowen Peng,  Kazunari Sugiyama, Xin Liu, and Tsunenori Mine. "	Balancing Embedding Spectrum for Recommendation." TORS
 
 * Shaowen Peng, Xin Liu, Kazunari Sugiyama, and Tsunenori Mine. "	How Powerful is Graph Filtering for Recommendation." KDD'24: 2388–2399.
