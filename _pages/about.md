@@ -11,15 +11,17 @@ I am an assistant professor at [Nara Institute of Science and Technology (NAIST)
 
 # Selected Publications
 
-* Michael Van Supranes, Shaowen Peng, Shoko Wakamiya, Eiji Aramaki. "	Enhancing Hate Speech Classifiers through a Gradient-assisted Counterfactual Text Generation Strategy EMNLP '25 Findings
+* Hiroaki Tanaka, Wataru Yamada, Keiichi Ochiai, **Shaowen Peng**, Shoko Wakamiya, Eiji Aramaki. "Estimating Shared Mental Models via Communication-Categorized Directed Graphs" CHI'26.
 
-* Shaowen Peng,  Kazunari Sugiyama, Xin Liu, and Tsunenori Mine. "	Balancing Embedding Spectrum for Recommendation." TORS
+* Michael Van Supranes, **Shaowen Peng**, Shoko Wakamiya, Eiji Aramaki. "Enhancing Hate Speech Classifiers through a Gradient-assisted Counterfactual Text Generation Strategy" EMNLP '25 Findings:3529-3544.
 
-* Shaowen Peng, Xin Liu, Kazunari Sugiyama, and Tsunenori Mine. "	How Powerful is Graph Filtering for Recommendation." KDD'24: 2388–2399.
+* **Shaowen Peng**,  Kazunari Sugiyama, Xin Liu, and Tsunenori Mine. "	Balancing Embedding Spectrum for Recommendation." TORS
 
-* Shaowen Peng, Kazunari Sugiyama, and Tsunenori Mine. "Less is More: Removing Redundancy of Graph Convolutional Networks for Recommendation." TOIS 42.3 (2024): 1-26.
+* **Shaowen Peng**, Xin Liu, Kazunari Sugiyama, and Tsunenori Mine. "	How Powerful is Graph Filtering for Recommendation." KDD '24: 2388–2399.
 
-* Shaowen Peng, Kazunari Sugiyama, and Tsunenori Mine. "SVD-GCN: A simplified graph convolution paradigm for recommendation." CIKM'22: 1625-1634.
+* **Shaowen Peng**, Kazunari Sugiyama, and Tsunenori Mine. "Less is More: Removing Redundancy of Graph Convolutional Networks for Recommendation." TOIS 42.3 (2024): 1-26.
 
-* Shaowen Peng, Kazunari Sugiyama, and Tsunenori Mine. "Less is more: Reweighting important spectral graph features for recommendation." SIGIR'22: 1273-1282.
+* **Shaowen Peng**, Kazunari Sugiyama, and Tsunenori Mine. "SVD-GCN: A simplified graph convolution paradigm for recommendation." CIKM '22: 1625-1634.
+
+* **Shaowen Peng**, Kazunari Sugiyama, and Tsunenori Mine. "Less is more: Reweighting important spectral graph features for recommendation." SIGIR '22: 1273-1282.
 
