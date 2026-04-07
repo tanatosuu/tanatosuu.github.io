@@ -11,7 +11,7 @@ I am an assistant professor at [Nara Institute of Science and Technology (NAIST)
 
 # Selected Publications
 
-* Encheng Cui, Shaowen Peng, Kazuhiro Ito, Jinsha Xu, Shohei Hisada, Shoko Wakamiya, Eiji Aramaki. "Single-Agent Generation Surpasses Multi-Agent Systems in Semantic Diversity" ACL'26 Findings. 
+* Encheng Cui, **Shaowen Peng**, Kazuhiro Ito, Jinsha Xu, Shohei Hisada, Shoko Wakamiya, Eiji Aramaki. "Single-Agent Generation Surpasses Multi-Agent Systems in Semantic Diversity" ACL'26 Findings. 
 
 * Hiroaki Tanaka, Wataru Yamada, Keiichi Ochiai, **Shaowen Peng**, Shoko Wakamiya, Eiji Aramaki. "Estimating Shared Mental Models via Communication-Categorized Directed Graphs" CHI'26.
 
