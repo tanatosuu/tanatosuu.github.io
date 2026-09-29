@@ -11,6 +11,8 @@ I am an assistant professor at [Nara Institute of Science and Technology (NAIST)
 
 # Selected Publications
 
+* **Shaowen Peng**, Xin Liu, Kazunari Sugiyama, and Tsunenori Mine. "How Universal is Spectral Filtering for Recommendation." TOIS.
+
 * Encheng Cui, **Shaowen Peng**, Kazuhiro Ito, Jinsha Xu, Shohei Hisada, Shoko Wakamiya, Eiji Aramaki. "Single-Agent Generation Surpasses Multi-Agent Systems in Semantic Diversity" ACL'26 Findings. 
 
 * Hiroaki Tanaka, Wataru Yamada, Keiichi Ochiai, **Shaowen Peng**, Shoko Wakamiya, Eiji Aramaki. "Estimating Shared Mental Models via Communication-Categorized Directed Graphs" CHI'26.
